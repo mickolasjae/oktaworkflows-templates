@@ -16,12 +16,12 @@ Before you get started, here are the things you’ll need:
 Follow these instructions to set up the OpenAI prompt examples:
 
 1. **Integrate OpenAI with Okta Workflows:**
-   1. Navigate to your Okta Workflows dashboard.
-   2. Select 'Connectors' and search for 'OpenAI'.
-   3. Add the OpenAI connector to your available connectors list.
+   - Navigate to your Okta Workflows dashboard.
+   - Select 'Connectors' and search for 'OpenAI'.
+   - Add the OpenAI connector to your available connectors list.
 2. **Configure the OpenAI connector:**
-   1. Enter your OpenAI API credentials.
-   2. Test the connection to ensure it's properly set up.
+   - Enter your OpenAI API credentials.
+   - Test the connection to ensure it's properly set up.
 
 ## Testing this Flow
 
