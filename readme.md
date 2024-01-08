@@ -22,15 +22,8 @@ The repository primarily contains `.folder` and `.flow` files. These files are i
 To use the files in this repository:
 
 1. **Download the Files**: Clone or download the `.folder` and `.flow` files from this repository.
-2. **Import to Okta Org**: Follow the standard import procedure in your Okta organization to test these configurations.
-3. **Test Configurations**: After import, you can start testing and modifying these configurations in your Okta test environment.
-
-## Contributing
-
-Contributions to this repository are welcome! Please ensure that any contributions adhere to the following guidelines:
-
-- Focus on educational and testing purposes.
-- Do not include any sensitive information or proprietary Okta configurations.
+2. **Import to Okta Org**: Follow the standard import procedure in your Okta organization to test these flows.
+3. **Test Flows**: After import, you can start testing and modifying these flows in your Okta test environment.
 
 ## Links
 
